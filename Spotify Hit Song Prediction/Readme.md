@@ -1,5 +1,6 @@
 
 🎵 Spotify Hit Song Predictor: Binary Classification
+
 This project implements a binary classification pipeline using Ensemble Methods (Random Forest and XGBoost) to predict whether a Spotify track will achieve High Popularity, defined as a Spotify Popularity Score greater than 75.
 
 The solution is valuable for Data Scientists, Machine Learning engineers, and Business Analysts in the music industry who aim to identify potential hit songs early in their lifecycle.
