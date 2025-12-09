@@ -21,3 +21,5 @@ The near-perfect accuracy suggests that the Risk_Category is determined by very 
 💡 Why SVM was Chosen-
 
 The Support Vector Machine (SVC) was an optimal choice for this problem:High-Dimensional Space: After OneHotEncoding for Job_Title and Education_Level, the feature space became high-dimensional. SVMs are mathematically designed to find the optimal separation hyperplane that maximizes the margin between classes in such complex spaces.Strong Generalization: When combined with the necessary StandardScaler preprocessing, SVMs provide strong generalization capabilities, making the model robust and less prone to overfitting than other algorithms might be in this scenario.
+
+Kaggle Link- https://www.kaggle.com/code/omshah117/ai-job-risk-prediction
