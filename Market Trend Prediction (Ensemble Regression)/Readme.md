@@ -36,7 +36,7 @@ rgr2: Decision Tree Regressor (max_depth=5)
 rgr3: Random Forest Regressor (n_estimators=50, max_depth=5)
 Ensemble Model:vrg: Voting Regressor combining rgr1, rgr2, and rgr3 with weights set to [1, 1, 2] (giving higher importance to the Random Forest).
 
-📊 Model Evaluation Results-
+📊 Model Evaluation Results
 
 The models were evaluated on the test set using two standard regression metrics: Root Mean Squared Error (RMSE) and R2 Score.
 
@@ -44,7 +44,7 @@ Key Findings-
 
 The Random Forest Regressor demonstrated the best individual performance, achieving the lowest RMSE (17.3814) and the highest R2 score (0.0573).The Voting Regressor performed better than the Linear Regression and Decision Tree models, validating the ensemble approach, but was slightly outperformed by the Random Forest.Despite the Random Forest being the best model, its R^2 score of 0.0573 indicates that it explains less than 6% of the variance in the daily returns. This result is typical for predicting highly noisy and near-random financial time-series data, emphasizing the difficulty of "beating the market."
 
-💻 Technologies Used-
+💻 Technologies Used
 
 Python,
 Pandas (Data Manipulation),
