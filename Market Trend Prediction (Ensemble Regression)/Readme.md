@@ -5,15 +5,15 @@ Project Overview-
 This project implements a complete data science pipeline for financial time-series analysis and market trend prediction. It leverages historical market data and various external factors, including economic indicators, volatility indices (VIX), and market sentiment scores, to predict the Daily Return Percentage of a stock or index.
 The pipeline includes Data Cleaning, extensive Exploratory Data Analysis (EDA) using Plotly, Feature Engineering to create lagged and volatility indicators, and the development of a predictive model using an M-Ensemble (Voting Regressor) approach.
 
-🎯 Goal
+🎯Goal-
 
 The primary objective is to predict the Daily Return Percentage using a combination of traditional and machine learning regression models, and to evaluate their performance, highlighting the challenges of forecasting market returns.
 
-📂 Dataset
+📂Dataset-
 
 The project utilizes the Market_Trend_External.csv dataset, which contains daily time-series data covering a significant period (1902-2023).
 
-🛠️ Pipeline and Methodology-
+🛠️Pipeline and Methodology-
 
 Data Loading and Initial Inspection 
 1. The dataset was loaded and inspected for structure and data types.The Date column was converted to datetime format for time-series analysis.No advanced cleaning (like missing value imputation) was explicitly required after initial inspection.
@@ -36,7 +36,7 @@ rgr2: Decision Tree Regressor (max_depth=5)
 rgr3: Random Forest Regressor (n_estimators=50, max_depth=5)
 Ensemble Model:vrg: Voting Regressor combining rgr1, rgr2, and rgr3 with weights set to [1, 1, 2] (giving higher importance to the Random Forest).
 
-📊 Model Evaluation Results
+📊Model Evaluation Results-
 
 The models were evaluated on the test set using two standard regression metrics: Root Mean Squared Error (RMSE) and R2 Score.
 
@@ -44,7 +44,7 @@ Key Findings-
 
 The Random Forest Regressor demonstrated the best individual performance, achieving the lowest RMSE (17.3814) and the highest R2 score (0.0573).The Voting Regressor performed better than the Linear Regression and Decision Tree models, validating the ensemble approach, but was slightly outperformed by the Random Forest.Despite the Random Forest being the best model, its R^2 score of 0.0573 indicates that it explains less than 6% of the variance in the daily returns. This result is typical for predicting highly noisy and near-random financial time-series data, emphasizing the difficulty of "beating the market."
 
-💻 Technologies Used
+💻Technologies Used-
 
 Python,
 Pandas (Data Manipulation),
