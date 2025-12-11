@@ -46,8 +46,10 @@ The Random Forest Regressor demonstrated the best individual performance, achiev
 
 💻 Technologies Used-
 
-Python
-Pandas (Data Manipulation)
-NumPy (Numerical Operations)
-Plotly Express (Data Visualization/EDA)
-Scikit-learn (Machine Learning: LinearRegression, DecisionTreeRegressor, RandomForestRegressor, VotingRegressor)
+Python,
+Pandas (Data Manipulation),
+NumPy (Numerical Operations),
+Plotly Express (Data Visualization/EDA),
+Scikit-learn (Machine Learning: LinearRegression, DecisionTreeRegressor, RandomForestRegressor, VotingRegressor).
+
+Kaggle Link- https://www.kaggle.com/code/omshah117/market-trend-prediction-m-ensemble-regression
