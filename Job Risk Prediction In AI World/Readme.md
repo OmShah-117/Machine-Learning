@@ -14,7 +14,7 @@ The dataset, sourced from a Kaggle competition, contains information on various 
 
 The SVC model relies on distance calculations, necessitating careful preprocessing:Target Label Encoding: The categorical target variable, Y Risk_Category, was converted to numerical integers 0, 1, 2 using LabelEncoder. Categorical Encoding: Features like Job_Title and Education_Level were converted into a machine-readable format using OneHotEncoder.Numerical Scaling (Crucial for SVM): All numerical features (Salary, Experience, and Skill columns) were normalized using StandardScaler to ensure fair weighting in the SVC's distance-based algorithm.Model Training: Support Vector Classifier (SVC)Model: SVC with a Radial Basis Function (RBF) kernel and class_weight='balanced'.Split: 80% Training set, 20% Test set (stratified).
 
-🚀 Results Metric Score Test- Set Accuracy 99.33%; Discussion on Accuracy- 
+🚀 Results Metric Score Test: Set Accuracy 99.33%; Discussion on Accuracy- 
 
 The near-perfect accuracy suggests that the Risk_Category is determined by very clear, quantifiable thresholds (e.g., on Automation_Probability_2030. The SVC model, being powerful for high-dimensional classification, was able to perfectly capture these boundaries.Note: The 99.33% accuracy is likely overstated for real-world application. While it confirms the features are extremely strong predictors, some degradation should be expected when applying the model to messy, unlabeled, real-world data outside the provided dataset.
 
