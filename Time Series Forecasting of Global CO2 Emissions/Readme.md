@@ -50,4 +50,4 @@ To replicate this analysis, clone the repository and install the necessary depen
 ```bash
 git clone <repository-url>
 cd co2-emission-forecasting
-pip install -r requirements.txt
+pip install -r requirements.md
