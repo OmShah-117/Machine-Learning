@@ -7,7 +7,7 @@ The primary model implemented is a **Random Forest Regressor**. The analysis is 
 
 ## Dataset
 The analysis utilizes the **Global Climate and Energy Consumption Dataset (2020-2024)**.
-* **Source:** *[You may replace this with the specific Kaggle/public source link]*
+* **Code:** https://www.kaggle.com/code/omshah117/time-series-forecasting-of-global-co2-emissions
 * **Size:** Over 36,000 daily records across various countries.
 * **Target Variable:** `co2_emission`
 * **Key Predictors:** `energy_consumption`, `temperature`, and date-related features.
