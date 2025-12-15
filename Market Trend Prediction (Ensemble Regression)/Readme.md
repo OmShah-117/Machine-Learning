@@ -52,4 +52,4 @@ NumPy (Numerical Operations),
 Plotly Express (Data Visualization/EDA),
 Scikit-learn (Machine Learning: LinearRegression, DecisionTreeRegressor, RandomForestRegressor, VotingRegressor).
 
-Kaggle Link> https://www.kaggle.com/code/omshah117/market-trend-prediction-m-ensemble-regression
+Kaggle Link- https://www.kaggle.com/code/omshah117/market-trend-prediction-m-ensemble-regression
