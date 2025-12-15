@@ -20,6 +20,7 @@ Target Creation: A binary column, is_highly_popular, was created, where:
 0 (Non-Hit): track_popularity ≤75.
 
 2) 📊 Exploratory Data Analysis (EDA)
+
 EDA confirmed several key relationships:
 
 The genre 'unknown' (a result of imputation/cleaning) and 'rap' were among the most frequent primary genres.
