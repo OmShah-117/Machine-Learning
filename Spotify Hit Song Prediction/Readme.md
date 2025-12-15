@@ -15,9 +15,9 @@ Genre Grouping: Extracted the primary artist genre and grouped less frequent gen
 
 Target Creation: A binary column, is_highly_popular, was created, where:
 
-1 (Hit): track_popularity >75
+1 (Hit): track_popularity >75.
 
-0 (Non-Hit): track_popularity ≤75
+0 (Non-Hit): track_popularity ≤75.
 
 2) 📊 Exploratory Data Analysis (EDA)
 EDA confirmed several key relationships:
