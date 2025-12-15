@@ -1,6 +1,6 @@
 📈Market Trend Prediction using M-Ensemble Regression
 
-Project Overview-
+Project Overview
 
 This project implements a complete data science pipeline for financial time-series analysis and market trend prediction. It leverages historical market data and various external factors, including economic indicators, volatility indices (VIX), and market sentiment scores, to predict the Daily Return Percentage of a stock or index.
 The pipeline includes Data Cleaning, extensive Exploratory Data Analysis (EDA) using Plotly, Feature Engineering to create lagged and volatility indicators, and the development of a predictive model using an M-Ensemble (Voting Regressor) approach.
