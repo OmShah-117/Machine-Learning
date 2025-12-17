@@ -1,58 +1,132 @@
-Google Play Store Analytics & Rating Prediction
-This project performs an extensive exploratory data analysis (EDA) and builds machine learning models to predict app ratings using the Google Play Store dataset. It utilizes interactive visualizations to uncover market trends and evaluates predictive performance using Random Forest and XGBoost.
+# Google Play Store Analytics
 
-📊 Project Overview
-The notebook explores a dataset of over 10,000 apps to understand the factors that drive popularity and high user ratings. Key phases include:
+## 📌 Project Overview
 
-Data Cleaning: Handling malformed entries, normalizing app sizes (MB/kB to bytes), and cleaning numeric fields like Installs and Price.
+This repository contains a Jupyter Notebook that performs an end-to-end exploratory data analysis (EDA) and basic modeling on **Google Play Store app data**. The goal is to understand app market trends, user preferences, pricing strategies, and factors influencing app ratings and installs.
 
-Exploratory Data Analysis (EDA): Using Plotly for interactive 2D and 3D visualizations.
+The notebook walks through data inspection, cleaning, visualization, and feature-driven insights that can help developers and product teams make data-informed decisions.
 
-Machine Learning: Training regressors to predict app ratings based on features like category, reviews, and size.
+---
 
-🛠️ Requirements
-The analysis requires the following Python libraries:
+## 🧠 Key Objectives
 
-pandas & numpy
+* Analyze app categories, ratings, reviews, installs, and pricing
+* Identify patterns affecting app popularity and user engagement
+* Explore relationships between ratings, reviews, installs, and app size
+* Prepare data for basic machine learning experiments
 
-plotly (for interactive charts)
+---
 
-scikit-learn
+## 📂 Dataset
 
-xgboost
+The dataset used in this notebook is the **Google Play Store Apps dataset**, which typically includes:
 
-🧹 Data Cleaning Highlights
-To prepare the raw data for analysis, the following steps were implemented:
+* App name
+* Category
+* Rating
+* Reviews
+* Size
+* Installs
+* Type (Free / Paid)
+* Price
+* Content rating
+* Genres
 
-Faulty Data Removal: Eliminated "shifted" rows where category data was missing or incorrect.
+> Dataset quality issues such as missing values, inconsistent formats, and outliers are handled during preprocessing.
 
-Feature Engineering: * Converted Installs (e.g., "10,000+") and Price (e.g., "$4.99") into clean numeric formats.
+---
 
-Normalized the Size column into a uniform byte format, resolving entries in Megabytes (M) and Kilobytes (k).
+## 🛠️ Tools & Libraries Used
 
-Deduplication: Dropped duplicate app entries to ensure statistical accuracy.
+* **Python**
+* **Pandas** – data manipulation and cleaning
+* **NumPy** – numerical computations
+* **Plotly** – interactive visualizations
+* **Scikit-learn** – basic preprocessing and modeling utilities
 
-📈 Key Insights from EDA
-Market Distribution: The store is dominated by Free apps (~92.6%), with Family, Game, and Tools being the most populated categories.
+---
 
-Top Performers: The Game category leads in total engagement with approximately 13.87 billion installs.
+## 🔍 Notebook Workflow
 
-Ratings Trends: The average app rating is 4.17, with genres like Puzzle (4.37) and Art & Design (4.36) receiving the highest average scores.
+### 1. Initial Inspection
 
-App Size vs. Success: There is only a weak correlation (0.13) between app size and installs, suggesting that small, optimized apps can be just as successful as large ones.
+* Load and preview the dataset
+* Understand data types and structure
+* Identify missing and inconsistent values
 
-Freshness: Approximately 66% of the apps in the dataset were updated in 2018, indicating a highly active developer ecosystem.
+### 2. Data Cleaning & Preprocessing
 
-🤖 Predictive Modeling
-The project uses regression models to predict an app's rating.
+* Handle missing ratings and reviews
+* Convert installs and price into numeric formats
+* Remove or treat outliers
+* Encode categorical variables where needed
 
-Random Forest: Achieved a Mean Absolute Error (MAE) of 0.3876.
+### 3. Exploratory Data Analysis (EDA)
 
-XGBoost: Implemented to further refine predictive accuracy through gradient boosting.
+* Category-wise app distribution
+* Rating distribution across categories
+* Free vs Paid app comparisons
+* Relationship between installs, reviews, and ratings
+* Price impact on ratings and installs
 
-🚀 Usage
-Ensure the googleplaystore.csv dataset is available in the data directory.
+### 4. Feature Preparation & Modeling (Introductory)
 
-Open the google-play-store-analytics.ipynb notebook.
+* Feature selection and scaling
+* Train-test split
+* Applying basic machine learning models for insight exploration
 
-Run all cells to regenerate the cleaning pipeline, visualizations, and model results.
+---
+
+## 📊 Key Insights
+
+* Free apps dominate the Play Store ecosystem
+* Certain categories consistently achieve higher ratings
+* Apps with higher reviews generally correlate with higher installs
+* Paid apps tend to have higher ratings but significantly fewer installs
+
+---
+
+## 🚀 How to Run the Notebook
+
+1. Clone this repository
+
+   ```bash
+   git clone https://github.com/your-username/google-play-store-analytics.git
+   ```
+2. Navigate to the project directory
+
+   ```bash
+   cd google-play-store-analytics
+   ```
+3. Install dependencies
+
+   ```bash
+   pip install pandas numpy plotly scikit-learn
+   ```
+4. Launch Jupyter Notebook
+
+   ```bash
+   jupyter notebook
+   ```
+5. Open and run `google-play-store-analytics.ipynb`
+
+---
+
+## 📈 Future Improvements
+
+* Advanced feature engineering
+* Predictive modeling for app success
+* Time-series analysis (if temporal data is available)
+* Deployment of insights via dashboards
+
+---
+
+## 👤 Author
+
+**Om Shah**
+Aspiring Data Scientist / Machine Learning Engineer
+Passionate about turning data into actionable insights
+
+---
+
+⭐ If you find this project helpful, consider giving it a star!
