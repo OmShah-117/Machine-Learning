@@ -121,12 +121,4 @@ The dataset used in this notebook is the **Google Play Store Apps dataset**, whi
 
 ---
 
-## 👤 Author
-
-**Om Shah**
-Aspiring Data Scientist / Machine Learning Engineer
-Passionate about turning data into actionable insights
-
----
-
 ⭐ If you find this project helpful, consider giving it a star!
