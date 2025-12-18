@@ -99,7 +99,7 @@ Licensed under the **MIT License**.
 ## 👤 Author
 
 **Your Name**
-GitHub: [@your-username](https://github.com/your-username)
+GitHub: [@OmShah-117](https://github.com/OmShah-117)
 
 ---
 
