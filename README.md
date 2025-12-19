@@ -96,7 +96,7 @@ Licensed under the **MIT License**.
 
 ---
 
-## 👤 Author-
+## 👤 Author
 
 **Your Name**
 GitHub: [@OmShah-117](https://github.com/OmShah-117)
