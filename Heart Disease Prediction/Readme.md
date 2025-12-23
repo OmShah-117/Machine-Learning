@@ -71,11 +71,11 @@ A supervised machine learning project that predicts whether a person is likely t
 --- 
 
 ## 🔍 Evaluation Metrics
-- Accuracy
-- Precision
-- Recall
-- F1-Score
-- Confusion Matrix
+- Accuracy.
+- Precision.
+- Recall.
+- F1-Score.
+- Confusion Matrix.
 - These metrics help assess not just correctness, but also how well the model handles false positives and false negatives critical in medical use cases.
 
 --- 
