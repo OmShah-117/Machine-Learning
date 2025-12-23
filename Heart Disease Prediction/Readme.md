@@ -35,20 +35,20 @@ A supervised machine learning project that predicts whether a person is likely t
 ---
 
 ## 📊 Dataset / Inputs
-- **Dataset:** Heart Disease Dataset (CSV format)
+- **Dataset:** Heart Disease Dataset (CSV format).
 - **Input Features Include:**
-  - Age
-  - Sex
-  - Chest pain type
-  - Blood pressure
-  - Cholesterol
-  - Fasting blood sugar
-  - ECG results
-  - Maximum heart rate
-  - Exercise-induced angina
+  - Age.
+  - Sex.
+  - Chest pain type.
+  - Blood pressure.
+  - Cholesterol.
+  - Fasting blood sugar.
+  - ECG results.
+  - Maximum heart rate.
+  - Exercise-induced angina.
 - **Target Variable:**
-  - `0` → No heart disease  
-  - `1` → Presence of heart disease
+  - `0` → No heart disease.
+  - `1` → Presence of heart disease.
 
 > Dataset is included locally for demonstration purposes.
 
