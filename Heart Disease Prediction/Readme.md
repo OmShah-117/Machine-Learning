@@ -25,12 +25,12 @@ A supervised machine learning project that predicts whether a person is likely t
 ---
 
 ## ✨ Key Features
-- Data cleaning and preprocessing
-- Exploratory Data Analysis (EDA)
-- Feature selection and scaling
-- Multiple ML classification models
-- Model evaluation using standard metrics
-- Clean, readable, and beginner-friendly implementation
+- Data cleaning and preprocessing.
+- Exploratory Data Analysis (EDA).
+- Feature selection and scaling.
+- Multiple ML classification models.
+- Model evaluation using standard metrics.
+- Clean, readable, and beginner-friendly implementation.
 
 ---
 
