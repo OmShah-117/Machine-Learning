@@ -13,14 +13,14 @@ A supervised machine learning project that predicts whether a person is likely t
 ---
 
 ## 🛠️ Tech Stack / Tools Used
-- **Programming Language:** Python 🐍  
+- **Programming Language:** Python 🐍.
 - **Libraries & Frameworks:**
-  - NumPy
-  - Pandas
-  - Matplotlib / Seaborn
-  - Scikit-learn
-- **Environment:** Jupyter Notebook
-- **Version Control:** Git & GitHub
+  - NumPy.
+  - Pandas.
+  - Matplotlib / Seaborn.
+  - Scikit-learn.
+- **Environment:** Jupyter Notebook.
+- **Version Control:** Git & GitHub.
 
 ---
 
@@ -55,13 +55,13 @@ A supervised machine learning project that predicts whether a person is likely t
 ---
 
 ## ⚙️ How It Works (High-Level)
-1. Load and inspect the dataset
-2. Handle missing values and encode categorical features
-3. Perform exploratory data analysis
-4. Split data into training and testing sets
-5. Train machine learning models
-6. Evaluate model performance
-7. Interpret results and draw conclusions
+1. Load and inspect the dataset.
+2. Handle missing values and encode categorical features.
+3. Perform exploratory data analysis.
+4. Split data into training and testing sets.
+5. Train machine learning models.
+6. Evaluate model performance.
+7. Interpret results and draw conclusions.
 
 ---
 
