@@ -67,6 +67,8 @@ A supervised machine learning project that predicts whether a person is likely t
 
 ## 📈 Model Performance & Evaluation
 - The models are evaluated using standard classification metrics:
+  
+--- 
 
 ## 🔍 Evaluation Metrics
 - Accuracy
@@ -74,7 +76,43 @@ A supervised machine learning project that predicts whether a person is likely t
 - Recall
 - F1-Score
 - Confusion Matrix
-- These metrics help assess not just correctness, but also how well the model handles false positives and false negatives critical in medical use cases
+- These metrics help assess not just correctness, but also how well the model handles false positives and false negatives critical in medical use cases.
 
+--- 
+
+## ⚠️ Limitations
+- Dataset size is relatively small.
+- Not suitable for real-world medical diagnosis.
+- No hyperparameter optimization at production scale.
+- does not replace professional medical advice.
+
+---
+
+## 🧪 Results / Output
+- The trained model demonstrates reasonable accuracy on test data.
+- Visualizations help understand feature impact.
+- Results are reproducible and easy to interpret.
+
+---
+
+## 🔮 Future Improvements
+- Add more data.
+- Try advanced models (Neural Networks).
+- Perform hyperparameter tuning.
+- Add cross-validation.
+- Deploy as a web app (Flask / FastAPI)
+- Use a larger, real-world dataset
+
+---
+
+## ⚠️ Disclaimer
+- This project is for educational and demonstration purposes only.
+- It is not a medical diagnostic tool.
+
+---
+
+👉 Feel free to experiment with the dataset, modify features, or improve the models. This repository is meant to showcase my understanding of machine learning concepts and project structuring.
+
+- If you found this project useful, feel free to ⭐ the repository!
 
 
