@@ -115,4 +115,6 @@ A supervised machine learning project that predicts whether a person is likely t
 
 - If you found this project useful, feel free to ⭐ the repository!
 
+---
+
 
