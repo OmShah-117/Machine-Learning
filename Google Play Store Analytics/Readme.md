@@ -21,16 +21,16 @@ The notebook walks through data inspection, cleaning, visualization, and feature
 
 The dataset used in this notebook is the **Google Play Store Apps dataset**, which typically includes:
 
-* App name
-* Category
-* Rating
-* Reviews
-* Size
-* Installs
-* Type (Free / Paid)
-* Price
-* Content rating
-* Genres
+* App name.
+* Category.
+* Rating.
+* Reviews.
+* Size.
+* Installs.
+* Type (Free / Paid).
+* Price.
+* Content rating.
+* Genres.
 
 > Dataset quality issues such as missing values, inconsistent formats, and outliers are handled during preprocessing.
 
