@@ -56,10 +56,10 @@ The dataset used in this notebook is the **Google Play Store Apps dataset**, whi
 
 ### 2. Data Cleaning & Preprocessing
 
-* Handle missing ratings and reviews
-* Convert installs and price into numeric formats
-* Remove or treat outliers
-* Encode categorical variables where needed
+* Handle missing ratings and reviews.
+* Convert installs and price into numeric formats.
+* Remove or treat outliers.
+* Encode categorical variables where needed.
 
 ### 3. Exploratory Data Analysis (EDA)
 
@@ -79,10 +79,10 @@ The dataset used in this notebook is the **Google Play Store Apps dataset**, whi
 
 ## 📊 Key Insights
 
-* Free apps dominate the Play Store ecosystem
-* Certain categories consistently achieve higher ratings
-* Apps with higher reviews generally correlate with higher installs
-* Paid apps tend to have higher ratings but significantly fewer installs
+* Free apps dominate the Play Store ecosystem.
+* Certain categories consistently achieve higher ratings.
+* Apps with higher reviews generally correlate with higher installs.
+* Paid apps tend to have higher ratings but significantly fewer installs.
 
 ---
 
@@ -118,10 +118,10 @@ Kaggle Link- https://www.kaggle.com/code/omshah117/google-play-store-analytics
 
 ## 📈 Future Improvements
 
-* Advanced feature engineering
-* Predictive modeling for app success
-* Time-series analysis (if temporal data is available)
-* Deployment of insights via dashboards
+* Advanced feature engineering.
+* Predictive modeling for app success.
+* Time-series analysis (if temporal data is available).
+* Deployment of insights via dashboards.
 
 ---
 
