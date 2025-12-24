@@ -10,10 +10,10 @@ The notebook walks through data inspection, cleaning, visualization, and feature
 
 ## 🧠 Key Objectives
 
-* Analyze app categories, ratings, reviews, installs, and pricing
-* Identify patterns affecting app popularity and user engagement
-* Explore relationships between ratings, reviews, installs, and app size
-* Prepare data for basic machine learning experiments
+* Analyze app categories, ratings, reviews, installs, and pricing.
+* Identify patterns affecting app popularity and user engagement.
+* Explore relationships between ratings, reviews, installs, and app size.
+* Prepare data for basic machine learning experiments.
 
 ---
 
