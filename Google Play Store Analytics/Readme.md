@@ -50,9 +50,9 @@ The dataset used in this notebook is the **Google Play Store Apps dataset**, whi
 
 ### 1. Initial Inspection
 
-* Load and preview the dataset
-* Understand data types and structure
-* Identify missing and inconsistent values
+* Load and preview the dataset.
+* Understand data types and structure.
+* Identify missing and inconsistent values.
 
 ### 2. Data Cleaning & Preprocessing
 
