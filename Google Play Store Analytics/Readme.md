@@ -39,10 +39,10 @@ The dataset used in this notebook is the **Google Play Store Apps dataset**, whi
 ## 🛠️ Tools & Libraries Used
 
 * **Python**
-* **Pandas** – data manipulation and cleaning
-* **NumPy** – numerical computations
-* **Plotly** – interactive visualizations
-* **Scikit-learn** – basic preprocessing and modeling utilities
+* **Pandas** – data manipulation and cleaning.
+* **NumPy** – numerical computations.
+* **Plotly** – interactive visualizations.
+* **Scikit-learn** – basic preprocessing and modeling utilities.
 
 ---
 
