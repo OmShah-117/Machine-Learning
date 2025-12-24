@@ -63,17 +63,17 @@ The dataset used in this notebook is the **Google Play Store Apps dataset**, whi
 
 ### 3. Exploratory Data Analysis (EDA)
 
-* Category-wise app distribution
-* Rating distribution across categories
-* Free vs Paid app comparisons
-* Relationship between installs, reviews, and ratings
-* Price impact on ratings and installs
+* Category-wise app distribution.
+* Rating distribution across categories.
+* Free vs Paid app comparisons.
+* Relationship between installs, reviews, and ratings.
+* Price impact on ratings and installs.
 
 ### 4. Feature Preparation & Modeling (Introductory)
 
-* Feature selection and scaling
-* Train-test split
-* Applying basic machine learning models for insight exploration
+* Feature selection and scaling.
+* Train-test split.
+* Applying basic machine learning models for insight exploration.
 
 ---
 
