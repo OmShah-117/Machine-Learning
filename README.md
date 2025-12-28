@@ -25,12 +25,12 @@ Each project includes:
 
 ## 🛠️ Technologies Used
 
-* Python 🐍
-* NumPy, Pandas
+* Python 🐍.
+* NumPy, Pandas.
 * Scikit‑learn
-* Matplotlib / Seaborn / plotly
-* Jupyter Notebook
-* TensorFlow / PyTorch (project‑specific)
+* Matplotlib / Seaborn / plotly.
+* Jupyter Notebook.
+* TensorFlow / PyTorch (project‑specific).
 
 ---
 
