@@ -72,10 +72,10 @@ This repository demonstrates:
 
 Each project documents:
 
-* Evaluation metrics
-* Visualizations
-* Key takeaways
-* Future improvements
+* Evaluation metrics.
+* Visualizations.
+* Key takeaways.
+* Future improvements.
 
 ---
 
