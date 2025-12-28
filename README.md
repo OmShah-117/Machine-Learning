@@ -60,11 +60,11 @@ Follow the instructions in that project’s `README.md`.
 
 This repository demonstrates:
 
-* Practical ML problem solving
-* Model selection & evaluation
-* Feature engineering techniques
-* Experimentation & reproducibility
-* Clean and scalable project structure
+* Practical ML problem solving.
+* Model selection & evaluation.
+* Feature engineering techniques.
+* Experimentation & reproducibility.
+* Clean and scalable project structure.
 
 ---
 
