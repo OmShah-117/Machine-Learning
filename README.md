@@ -12,10 +12,10 @@ This repository contains several independent machine learning projects, each foc
 
 Each project includes:
 
-* Clear problem definition
-* Dataset handling & preprocessing
-* Model building and evaluation
-* Results and insights
+* Clear problem definition.
+* Dataset handling & preprocessing.
+* Model building and evaluation.
+* Results and insights.
 
 ---
 
