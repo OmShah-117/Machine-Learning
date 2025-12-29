@@ -56,33 +56,33 @@ The dataset used in this notebook is the **Google Play Store Apps dataset**, whi
 
 ### 2. Data Cleaning & Preprocessing
 
-* Handle missing ratings and reviews.
-* Convert installs and price into numeric formats.
-* Remove or treat outliers.
-* Encode categorical variables where needed.
+* Handle missing ratings and reviews
+* Convert installs and price into numeric formats
+* Remove or treat outliers
+* Encode categorical variables where needed
 
 ### 3. Exploratory Data Analysis (EDA)
 
-* Category-wise app distribution.
-* Rating distribution across categories.
-* Free vs Paid app comparisons.
-* Relationship between installs, reviews, and ratings.
-* Price impact on ratings and installs.
+* Category-wise app distribution
+* Rating distribution across categories
+* Free vs Paid app comparisons
+* Relationship between installs, reviews, and ratings
+* Price impact on ratings and installs
 
 ### 4. Feature Preparation & Modeling (Introductory)
 
-* Feature selection and scaling.
-* Train-test split.
-* Applying basic machine learning models for insight exploration.
+* Feature selection and scaling
+* Train-test split
+* Applying basic machine learning models for insight exploration
 
 ---
 
 ## Key Insights
 
-* Free apps dominate the Play Store ecosystem.
-* Certain categories consistently achieve higher ratings.
-* Apps with higher reviews generally correlate with higher installs.
-* Paid apps tend to have higher ratings but significantly fewer installs.
+* Free apps dominate the Play Store ecosystem
+* Certain categories consistently achieve higher ratings
+* Apps with higher reviews generally correlate with higher installs
+* Paid apps tend to have higher ratings but significantly fewer installs
 
 ---
 
@@ -118,11 +118,11 @@ Kaggle Link- https://www.kaggle.com/code/omshah117/google-play-store-analytics
 
 ## Future Improvements
 
-* Advanced feature engineering.
-* Predictive modeling for app success.
-* Time-series analysis (if temporal data is available).
-* Deployment of insights via dashboards.
+* Advanced feature engineering
+* Predictive modeling for app success
+* Time-series analysis (if temporal data is available)
+* Deployment of insights via dashboards
 
 ---
 
-⭐ If you find this project helpful, consider giving it a star!
+If you find this project helpful, consider giving it a star! ⭐ 
