@@ -17,7 +17,7 @@ The notebook walks through data inspection, cleaning, visualization, and feature
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 The dataset used in this notebook is the **Google Play Store Apps dataset**, which typically includes:
 
@@ -36,7 +36,7 @@ The dataset used in this notebook is the **Google Play Store Apps dataset**, whi
 
 ---
 
-## 🛠️ Tools & Libraries Used
+## Tools & Libraries Used
 
 * **Python**
 * **Pandas** – data manipulation and cleaning
@@ -46,7 +46,7 @@ The dataset used in this notebook is the **Google Play Store Apps dataset**, whi
 
 ---
 
-## 🔍 Notebook Workflow
+## Notebook Workflow
 
 ### 1. Initial Inspection
 
@@ -77,7 +77,7 @@ The dataset used in this notebook is the **Google Play Store Apps dataset**, whi
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 
 * Free apps dominate the Play Store ecosystem.
 * Certain categories consistently achieve higher ratings.
@@ -86,7 +86,7 @@ The dataset used in this notebook is the **Google Play Store Apps dataset**, whi
 
 ---
 
-## 🚀 How to Run the Notebook
+## How to Run the Notebook
 
 1. Clone this repository
 
@@ -116,7 +116,7 @@ Kaggle Link- https://www.kaggle.com/code/omshah117/google-play-store-analytics
 
 ---
 
-## 📈 Future Improvements
+## Future Improvements
 
 * Advanced feature engineering.
 * Predictive modeling for app success.
