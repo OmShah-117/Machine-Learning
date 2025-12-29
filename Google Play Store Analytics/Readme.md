@@ -1,6 +1,6 @@
 # Google Play Store Analytics
 
-## 📌 Project Overview
+## Project Overview
 
 This repository contains a Jupyter Notebook that performs an end-to-end exploratory data analysis (EDA) and basic modeling on **Google Play Store app data**. The goal is to understand app market trends, user preferences, pricing strategies, and factors influencing app ratings and installs.
 
@@ -8,7 +8,7 @@ The notebook walks through data inspection, cleaning, visualization, and feature
 
 ---
 
-## 🧠 Key Objectives
+## Key Objectives
 
 * Analyze app categories, ratings, reviews, installs, and pricing
 * Identify patterns affecting app popularity and user engagement
