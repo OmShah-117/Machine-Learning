@@ -96,65 +96,6 @@ cd your-repo-name
 # Install dependencies
 pip install -r requirements.txt
 ```
----
-
-▶️ How to Run the Project
-
-Open Jupyter Notebook:
-
-jupyter notebook
-
-
-Run the notebook:
-
-text-preprocessing-and-voting-stacking-ensemble.ipynb
-
-Modify dataset or preprocessing steps as needed
-
-Re-train models and evaluate results
-
-🗂️ Folder Structure
-├── data/
-│   └── dataset.csv
-├── notebooks/
-│   └── text-preprocessing-and-voting-stacking-ensemble.ipynb
-├── requirements.txt
-├── README.md
-
-📈 Results / Output
-
-Performance comparison between:
-
-Individual models
-
-Voting Ensemble
-
-Stacking Ensemble
-
-Visualizations of evaluation metrics
-
-Clear demonstration of ensemble learning benefits
-
-🚀 Future Improvements
-
-Add advanced NLP techniques (Word2Vec, GloVe, BERT)
-
-Perform extensive hyperparameter tuning
-
-Include cross-validation
-
-Deploy as a web app (Streamlit / Flask)
-
-Add automated ML pipelines
-
-⚠️ Disclaimer
-
-This project is an example/demo implementation created to demonstrate my understanding of text preprocessing and ensemble machine learning techniques.
-Users are strongly encouraged to experiment with different datasets, models, and enhancements to improve performance and gain deeper insights.
-
-👨‍💻 Author / Credits
-
-Om Shah
 
 Aspiring Machine Learning Engineer
 
