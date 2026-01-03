@@ -96,9 +96,6 @@ cd your-repo-name
 # Install dependencies
 pip install -r requirements.txt
 ```
-
-Aspiring Machine Learning Engineer
-
-Passionate about AI, ML, and real-world problem solving 🚀
+---
 
 If you found this project helpful, feel free to ⭐ the repository!
