@@ -1,12 +1,12 @@
-# 📊 Text Preprocessing & Ensemble Learning (Voting + Stacking)
+# Text Preprocessing & Ensemble Learning (Voting + Stacking)
 
-## 📝 Short Description
+## Short Description
 This project demonstrates an **end-to-end machine learning (NLP) workflow for text classification**, focusing on **text preprocessing** and **ensemble learning techniques** such as **Voting Classifier** and **Stacking Classifier**.  
 It is designed as a **learning-oriented, example project** that showcases practical knowledge of NLP pipelines, model evaluation, and ensemble strategies.
 
 ---
 
-## 🛠️ Tech Stack / Tools Used
+## Tech Stack / Tools Used
 - **Programming Language:** Python 🐍
 - **Libraries & Frameworks:**
   - NumPy
@@ -18,14 +18,14 @@ It is designed as a **learning-oriented, example project** that showcases practi
 
 ---
 
-## ✨ Key Features
-- 🧹 Comprehensive **text preprocessing pipeline**
-- 🔠 Tokenization, stopword removal, and vectorization (TF-IDF / CountVectorizer)
-- 🤖 Multiple **base ML models** for text classification
-- 🗳️ **Voting Classifier** (Hard & Soft Voting)
-- 🧩 **Stacking Ensemble** with meta-learner
-- 📈 Model performance comparison using standard metrics
-- 📊 Clear evaluation and result interpretation
+## Key Features
+- Comprehensive **text preprocessing pipeline**
+-  Tokenization, stopword removal, and vectorization (TF-IDF / CountVectorizer)
+-  Multiple **base ML models** for text classification
+-  **Voting Classifier** (Hard & Soft Voting)
+-  **Stacking Ensemble** with meta-learner
+-  Model performance comparison using standard metrics
+-  Clear evaluation and result interpretation
 
 ---
 
