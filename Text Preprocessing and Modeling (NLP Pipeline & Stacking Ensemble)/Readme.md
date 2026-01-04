@@ -29,17 +29,17 @@ It is designed as a **learning-oriented, example project** that showcases practi
 
 ---
 
-## 📂 Dataset / Inputs
+## Dataset / Inputs
 - Text-based dataset (e.g., reviews, comments, or documents)
 - Input format:
   - **Text column:** Raw textual data
   - **Label column:** Target class/category
 
-> ⚠️ Dataset is not fixed — users are encouraged to plug in their own datasets.
+> Dataset is not fixed — users are encouraged to plug in their own datasets.
 
 ---
 
-## ⚙️ How It Works (High-Level Overview)
+## How It Works (High-Level Overview)
 1. **Data Loading**
    - Load and inspect the text dataset
 2. **Text Preprocessing**
