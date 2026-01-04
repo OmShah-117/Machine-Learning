@@ -59,23 +59,23 @@ It is designed as a **learning-oriented, example project** that showcases practi
 
 ---
 
-## 🧪 Model Performance & Evaluation
+## Model Performance & Evaluation
 
-### 📏 Evaluation Metrics Used
+### Evaluation Metrics Used
 - Accuracy
 - Precision
 - Recall
 - F1-Score
 - Confusion Matrix
 
-### 📊 Observations
+### Observations
 - Ensemble models generally outperform individual models
 - Stacking provides better generalization in most cases
 - Voting works well when base models are diverse
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 - Performance depends heavily on:
   - Dataset quality
   - Feature engineering
@@ -85,7 +85,7 @@ It is designed as a **learning-oriented, example project** that showcases practi
 
 ---
 
-## 💻 Installation & Setup Steps
+## Installation & Setup Steps
 ```bash
 # Clone the repository
 git clone https://github.com/your-username/your-repo-name.git
