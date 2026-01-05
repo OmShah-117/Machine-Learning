@@ -86,7 +86,7 @@ It is designed as a **learning-oriented, example project** that showcases practi
 
 ---
 
-## Installation & Setup Steps
+## Installation & Setup Steps.
 ```bash
 # Clone the repository
 git clone https://github.com/your-username/your-repo-name.git
