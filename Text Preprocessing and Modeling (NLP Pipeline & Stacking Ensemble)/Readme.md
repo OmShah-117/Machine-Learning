@@ -4,6 +4,7 @@
 This project demonstrates an **end-to-end machine learning (NLP) workflow for text classification**, focusing on **text preprocessing** and **ensemble learning techniques** such as **Voting Classifier** and **Stacking Classifier**.  
 It is designed as a **learning-oriented, example project** that showcases practical knowledge of NLP pipelines, model evaluation, and ensemble strategies.
 
+- kaggle link- https://www.kaggle.com/code/omshah117/text-preprocess-nlp-pipeline-voting-stacking
 ---
 
 ## Tech Stack / Tools Used
