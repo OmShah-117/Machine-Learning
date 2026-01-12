@@ -1,18 +1,18 @@
 # ❤️ Heart Disease Prediction using Machine Learning
 
-## 📌 Project Overview
+## Project Overview
 This project demonstrates an **end-to-end machine learning pipeline** to predict the likelihood of heart disease based on clinical and demographic features. It is designed as a **learning-focused, example project** that showcases data preprocessing, model training, evaluation, and interpretation.
 
 The goal is not only prediction accuracy, but also to clearly explain **how a real-world ML project is structured**.
 
 ---
 
-## 📝 Short Description
+## Short Description
 A supervised machine learning project that predicts whether a person is likely to have heart disease using structured medical data and standard classification algorithms.
 
 ---
 
-## 🛠️ Tech Stack / Tools Used
+## Tech Stack / Tools Used
 - **Programming Language:** Python 🐍.
 - **Libraries & Frameworks:**
   - NumPy.
@@ -24,7 +24,7 @@ A supervised machine learning project that predicts whether a person is likely t
 
 ---
 
-## ✨ Key Features
+## Key Features
 - Data cleaning and preprocessing.
 - Exploratory Data Analysis (EDA).
 - Feature selection and scaling.
@@ -34,7 +34,7 @@ A supervised machine learning project that predicts whether a person is likely t
 
 ---
 
-## 📊 Dataset / Inputs
+## Dataset / Inputs
 - **Dataset:** Heart Disease Dataset (CSV format).
 - **Input Features Include:**
   - Age.
