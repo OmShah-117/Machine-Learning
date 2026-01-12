@@ -54,7 +54,7 @@ A supervised machine learning project that predicts whether a person is likely t
 
 ---
 
-## ⚙️ How It Works (High-Level)
+## How It Works (High-Level)
 1. Load and inspect the dataset.
 2. Handle missing values and encode categorical features.
 3. Perform exploratory data analysis.
@@ -65,12 +65,12 @@ A supervised machine learning project that predicts whether a person is likely t
 
 ---
 
-## 📈 Model Performance & Evaluation
+## Model Performance & Evaluation
 - The models are evaluated using standard classification metrics:
   
 --- 
 
-## 🔍 Evaluation Metrics
+## Evaluation Metrics
 - Accuracy.
 - Precision.
 - Recall.
@@ -80,7 +80,7 @@ A supervised machine learning project that predicts whether a person is likely t
 
 --- 
 
-## ⚠️ Limitations
+## Limitations
 - Dataset size is relatively small.
 - Not suitable for real-world medical diagnosis.
 - No hyperparameter optimization at production scale.
@@ -88,14 +88,14 @@ A supervised machine learning project that predicts whether a person is likely t
 
 ---
 
-## 🧪 Results / Output
+## Results / Output
 - The trained model demonstrates reasonable accuracy on test data.
 - Visualizations help understand feature impact.
 - Results are reproducible and easy to interpret.
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 - Add more data.
 - Try advanced models (Neural Networks).
 - Perform hyperparameter tuning.
@@ -105,13 +105,15 @@ A supervised machine learning project that predicts whether a person is likely t
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 - This project is for educational and demonstration purposes only.
 - It is not a medical diagnostic tool.
 
 ---
 
-👉 Feel free to experiment with the dataset, modify features, or improve the models. This repository is meant to showcase my understanding of machine learning concepts and project structuring.
+Feel free to experiment with the dataset, modify features, or improve the models. This repository is meant to showcase my understanding of machine learning concepts and project structuring.
+
+---
 
 - If you found this project useful, feel free to ⭐ the repository!
 
