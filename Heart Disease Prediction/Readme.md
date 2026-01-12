@@ -1,6 +1,6 @@
-# ❤️ Heart Disease Prediction using Machine Learning
+# ❤️ Heart Disease Prediction using Machine Learning.
 
-## 📌 Project Overview
+## 📌 Project Overview..
 This project demonstrates an **end-to-end machine learning pipeline** to predict the likelihood of heart disease based on clinical and demographic features. It is designed as a **learning-focused, example project** that showcases data preprocessing, model training, evaluation, and interpretation.
 
 The goal is not only prediction accuracy, but also to clearly explain **how a real-world ML project is structured**.
