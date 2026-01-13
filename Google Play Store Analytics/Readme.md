@@ -1,4 +1,4 @@
-# Google Play Store Analytics..
+# Google Play Store Analytics.
 
 ## Project Overview
 
