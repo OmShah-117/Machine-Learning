@@ -1,4 +1,6 @@
-🤖 AI Impact on Jobs 2030: Risk Prediction using Support Vector Machine (SVM)-
+## AI Impact on Jobs 2030: Risk 
+
+Prediction using Support Vector Machine (SVM)-
 
 This project aims to predict the Risk Category of a job (Low, Medium, or High) based on various job attributes, including salary, experience, education level, and key AI exposure indices. This is formulated as a Multi-Class Classification problem, with the Support Vector Classifier (SVC) being the primary model used for prediction.The analysis confirms a strong relationship between the target variable Risk_Category and the predictive features, resulting in a model with near-perfect accuracy on the test set.
 
