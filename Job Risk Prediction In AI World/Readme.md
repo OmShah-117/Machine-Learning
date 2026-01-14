@@ -8,11 +8,11 @@ This project aims to predict the Risk Category of a job (Low, Medium, or High) b
 
 The project is contained within a single Jupyter Notebook:Job Risk Pred (SVM).ipynb: Contains all steps from data loading, Exploratory Data Analysis (EDA), feature engineering, model training (SVC), and evaluation.
 
-📊 Dataset and Key Insights- 
+### Dataset and Key Insights- 
 
 The dataset, sourced from a Kaggle competition, contains information on various job titles and their predicted risk levels concerning AI automation by 2030.Size: 3,000 rows.Quality: The data was exceptionally clean, with zero missing values and no duplicate rows, thus requiring no initial cleaning.Key Findings from EDARisk Distribution (Q2): The Medium Risk category is the largest, containing 1,521 jobs (over half the dataset). The Low 739 and High 740 risk categories are almost equally balanced.Risk & Automation (Q4): A direct correlation was confirmed:Low Risk jobs have a median Automation_Probability_2030 near 0.2. Medium Risk jobs have a median probability near 0.5.High Risk jobs have a median probability near 0.8.Education & Salary (Q1): A clear positive trend exists, where higher education levels generally correlate with higher average salaries (e.g., PhD salaries are highest).AI Exposure Index (Q5):Highest Exposure includes jobs like Graphic Designer, Construction Worker, and Delivery Driver.Lowest Exposure includes roles like Research Scientist, Data Analyst, and Teacher.
 
-🛠️ Model and MethodologyFeature Engineering and Preprocessing-
+### Model and MethodologyFeature Engineering and Preprocessing-
 
 The SVC model relies on distance calculations, necessitating careful preprocessing:Target Label Encoding: The categorical target variable, Y Risk_Category, was converted to numerical integers 0, 1, 2 using LabelEncoder. Categorical Encoding: Features like Job_Title and Education_Level were converted into a machine-readable format using OneHotEncoder.Numerical Scaling (Crucial for SVM): All numerical features (Salary, Experience, and Skill columns) were normalized using StandardScaler to ensure fair weighting in the SVC's distance-based algorithm.Model Training: Support Vector Classifier (SVC)Model: SVC with a Radial Basis Function (RBF) kernel and class_weight='balanced'.Split: 80% Training set, 20% Test set (stratified).
 
