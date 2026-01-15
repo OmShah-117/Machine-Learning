@@ -33,6 +33,7 @@ Both models were optimized using class weights (class_weight='balanced' for Rand
 
 While overall accuracy is high, the low recall for the High Popularity (1) class suggests the model correctly identifies most non-hits but still struggles to capture a large percentage of the actual hit songs.
 
-Conclusion: The models confirm that Artist Followers, Artist Popularity, and Track Duration are the most critical features in predicting a song's high popularity.
+### Conclusion:
+The models confirm that Artist Followers, Artist Popularity, and Track Duration are the most critical features in predicting a song's high popularity.
 
 Kaggle Link- https://www.kaggle.com/code/omshah117/notebookcde0def23f
