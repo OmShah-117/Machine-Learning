@@ -1,6 +1,6 @@
 # Global CO2 Emission Forecasting (2020-2024)
 
-## Project Overview..
+## Project Overview.
 This project focuses on building and evaluating a time series forecasting model for global **CO2 emissions** between 2020 and 2024. Using climate and energy consumption data, the goal is to predict daily `co2_emission` levels and identify areas for model performance improvement.
 
 The primary model implemented is a **Random Forest Regressor**. The analysis is detailed in the accompanying Jupyter Notebook: `notebookcd07943da6.ipynb`.
