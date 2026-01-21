@@ -1,6 +1,6 @@
 # Machine Learning Projects Repository
 
-A curated collection of **multiple. machine learning projects** demonstrating end‑to‑end workflows, algorithms, and real‑world problem solving.
+A curated collection of **multiple machine learning projects** demonstrating end‑to‑end workflows, algorithms, and real‑world problem solving.
 
 This repository is designed as a **portfolio-style showcase** of various ML concepts, models, and applications.
 
