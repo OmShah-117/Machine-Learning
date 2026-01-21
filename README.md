@@ -1,4 +1,4 @@
-# Machine Learning Projects Repository.
+# Machine Learning Projects Repository
 
 A curated collection of **multiple machine learning projects** demonstrating end‑to‑end workflows, algorithms, and real‑world problem solving.
 
